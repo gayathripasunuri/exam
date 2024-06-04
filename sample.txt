@@ -1,0 +1,12 @@
+https://github.com/gayathripasunuri/exam.git
+
+
+
+git init
+touch test.txt
+git config --global user.email "samrathreddy04@gmail.com"
+git config --global user.name "samrath"
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/samrathreddy/Testing.git
+git push -u origin master
